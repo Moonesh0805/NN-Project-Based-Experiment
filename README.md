@@ -1,4 +1,6 @@
-#Project Based Experiments
+# Project Based Experiments
+### NAME - MOONESH P
+### REG NO - 212223230126
 ## Objective :
  Build a Multilayer Perceptron (MLP) to classify handwritten digits in python
 ## Steps to follow:
@@ -139,4 +141,5 @@ plt.show()
 ![image](https://github.com/user-attachments/assets/132bc0a6-a1b7-4b9a-a5c2-e06f2feced06)
 ![image](https://github.com/user-attachments/assets/f228a59d-13db-4221-a8db-0d6470f35685)
 
-
+## Result
+Successfully built a Multilayer Perceptron (MLP) to classify handwritten digits in python.
